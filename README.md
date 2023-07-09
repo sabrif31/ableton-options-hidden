@@ -1,8 +1,17 @@
+
 # Ableton live - Hidden Options
 
-## Install
+## Automatic installation
+
+[Download ZIP](https://github.com/sabrif31/ableton-options-hidden/archive/refs/heads/main.zip)
+- Ouvrez le fichier **settings.txt**, puis éditer la version d'Ableton si besoin.
+- Exécuter le fichier **install.bat** *(mode administrateur peut être requis)*
+
+## Manual installation
+
+### Install
 - Créer un dossier **ableton-options**
-- Télécharger le fichier  [Options.txt](https://drive.google.com/file/d/1EWl9ebby4MVWqoZlHyIJ1JeA3FEzneaz/view) 
+- Télécharger le fichier [Options.txt](https://drive.google.com/file/d/1EWl9ebby4MVWqoZlHyIJ1JeA3FEzneaz/view) 
 - [SCL youtube vidéo](https://www.youtube.com/watch?v=IL19EsckJc8)
 - Copier le fichier **Options.txt** dans ce dossier
 - Créer un fichier texte dans ce même dossier que vous nommez **settings.txt**, dans celui ci, taper la version de votre Ableton Live, par exemple: **11.3.4**, puis enregistrez le fichier
@@ -20,9 +29,9 @@ exit
 ```
 
 - Enregistrez le fichier
-- Il vous reste juste à exécuter ce fichier, et l'Options.txt sera copier au bonne endroit.
+- Il vous reste juste à exécuter ce fichier, et l'Options.txt sera copier au bonne endroit. *(mode administrateur peut être requis)*
 
-## Uninstall
+### Uninstall
 
 - Créer un fichier **uninstall.bat** que l'on va éditer avec le bloc-note pour y insérer ce qui suit. 
 
