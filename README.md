@@ -1,5 +1,4 @@
-
-# Ableton live - Hidden Options
+# Ableton live - Hidden Options [only WIN]
 
 ## Automatic installation
 
