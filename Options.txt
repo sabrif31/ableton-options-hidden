@@ -1,0 +1,4 @@
+-ShowDeviceSLots
+-EnableArmOnSelection
+-_PluginAutoPopulateThreshold=32
+
